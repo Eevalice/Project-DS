@@ -28,30 +28,15 @@
 
 ## Quick start
 
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
+Project Repository for Data Science List
 
 ## Status
 
-Here goes all the budgets
+Here goes all the plots
 
 ## What's included
-
-Some text
-
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
+- Project for Recent Car Database in Germany
+- Project Source Code for Recent Car Database in Germany
 
 ## Bugs and feature requests
 
@@ -69,11 +54,11 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 **Creator 1**
 
-- <https://github.com/usernamecreator1>
+- <https://github.com/Eevalice>
 
 ## Thanks
 
-Some Text
+Engr. Joesmart Apan - Implementing new practices for us to learn more about the introduction to computational thinking with python
 
 ## Copyright and license
 
