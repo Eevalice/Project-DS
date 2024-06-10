@@ -3,7 +3,7 @@
     <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Project - Data Science</h3>
+  <h3 align="center">Project Portfolio - Data Science</h3>
 
   <p align="center">
     Here's a compilation of projects during the ECE Elective 1 - Data Science Computational Thinking with Python
