@@ -63,5 +63,3 @@ Engr. Joesmart Apan - Implementing new practices for us to learn more about the 
 ## Copyright and license
 
 Code and documentation copyright 2023-2024 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
-
-Enjoy :metal:
